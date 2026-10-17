@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "id": "user_admin_01",
+      "name": "CreatorAI Administrator",
+      "email": "admin@creatorai.com",
+      "passwordHash": "h_969161597_8",
+      "role": "admin",
+      "plan": "enterprise",
+      "status": "active",
+      "createdAt": "2026-10-17T06:34:52.851Z",
+      "generationsCount": 42,
+      "generationsToday": 0,
+      "lastGenerationDate": "2026-10-17",
+      "bio": "System Administrator & CreatorAI Operations",
+      "niche": "Technology",
+      "country": "Global"
+    },
+    {
+      "id": "user_demo_02",
+      "name": "Salimu Bright",
+      "email": "salimubright81@gmail.com",
+      "passwordHash": "h_1379286662_10",
+      "role": "creator",
+      "plan": "pro",
+      "status": "active",
+      "createdAt": "2026-10-10T06:34:52.852Z",
+      "generationsCount": 18,
+      "generationsToday": 1,
+      "lastGenerationDate": "2026-10-17",
+      "bio": "Digital Entrepreneur & Content Creator",
+      "niche": "Business & eCommerce",
+      "country": "Nigeria"
+    }
+  ],
+  "items": [
+    {
+      "userId": "guest",
+      "type": "video_hook",
+      "title": "Video Hook: How to sell streetwear sneakers online",
+      "topic": "How to sell streetwear sneakers online",
+      "platform": "all",
+      "content": "Here are **10 high-retention viral hooks** engineered to stop the scroll, crush the 3-second drop-off, and build instant authority in the sneaker e-commerce space.\n\n---\n\n### 🔍 Curiosity Gap Hooks\n*Make them feel like an elite inner circle is keeping secrets from them.*\n\n* **“The secret sneaker suppliers top resellers don’t want you to ever find.”** *(12 words)*\n* **“The exact reason your kicks sit for weeks without a single buyer.”** *(12 words)*\n\n---\n\n### ⚠️ Negative / Warning Hooks\n*Trigger risk aversion—people will act faster to avoid losing money than to make it.*\n\n* **“Stop buying Jordans to flip until you fix this fatal profit mistake.”** *(12 words)*\n* **“Never list a pair of sneakers online until you do this first.”** *(12 words)*\n\n---\n\n### 🔥 Contrarian / Hot Take Hooks\n*Call out common industry advice to spark debate in the comments.*\n\n* **“Sneaker reselling isn’t dead. You’re just buying the wrong hype drops.”** *(11 words)*\n* **“Bots won’t make you rich reselling kicks. They’re actually draining your cash.”** *(12 words)*\n\n---\n\n### 📖 Story Hooks\n*Build rapid trust by showing high-stakes struggle turned into success.*\n\n* **“I was broke with three shoe boxes. Now I flip $10k monthly.”** *(12 words)*\n* **“I lost $800 on fake Dunks before discovering this six-figure blueprint.”** *(11 words)*\n\n---\n\n### ⚡ Fast-Result / Secret Hack Hooks\n*Promise an instant, low-effort win that viewers can test today.*\n\n* **“This 30-second listing trick will sell your deadstock pairs by tonight.”** *(11 words)*\n* **“Use this hidden search filter right now to find massively underpriced kicks.”** *(12 words)*\n\n---\n\n### 💡 Creator Pro-Tip for Execution:\n* **First Frame:** Hold up an iconic sneaker (e.g., Jordan 1 or Travis Scott) directly into the lens or aggressively pack a shipping box to match the energy of the hook.\n* **On-Screen Text:** Never match your text-on-screen word-for-word with your audio. Use a shortened, punchy visual anchor like **“NEVER DO THIS ❌”** while saying the warning hook out loud.",
+      "structured": {
+        "hook": "s** engineered to stop the scroll, crush the 3-second drop-off, and build instant authority in the sneaker e-commerce space.",
+        "hashtags": [],
+        "wordCount": 330
+      },
+      "isFavorite": false,
+      "id": "item_1792218912473_lw4dj",
+      "createdAt": "2026-10-17T06:35:12.473Z"
+    },
+    {
+      "id": "item_sample_01",
+      "userId": "user_demo_02",
+      "type": "tiktok_script",
+      "title": "How to scale your small business with zero ads in 2026",
+      "topic": "Small business growth on TikTok",
+      "platform": "tiktok",
+      "content": "🔥 HOOK (0-3s):\n\"If you are running a business in 2026 and still waiting for customers to walk into your shop, you are losing money every single hour.\"\n\n🎬 SCENE 1 (Visual: Creator pointing at smartphone with dashboard):\n\"Look at this. Over 70% of high-converting sales now come from short-form videos showing behind-the-scenes authenticity, not fancy studio commercials.\"\n\n🎬 SCENE 2 (Visual: Quick cuts of packaging an order and customer unboxing):\n\"Step 1: Stop selling the product. Start selling the transformation.\nStep 2: Show your actual process—the hustle, packaging the parcel, answering customer DMs.\nStep 3: Pin a comment with your direct WhatsApp or order link.\"\n\n🎯 CALL TO ACTION:\n\"Drop your business niche in the comments and I'll reply with 3 viral video ideas you can film today!\"",
+      "structured": {
+        "hook": "If you are running a business in 2026 and still waiting for customers to walk into your shop, you are losing money every single hour.",
+        "callToAction": "Drop your business niche in the comments and I'll reply with 3 viral video ideas you can film today!",
+        "hashtags": [
+          "#SmallBusinessTips",
+          "#TikTokGrowth",
+          "#EntrepreneurLife",
+          "#ContentCreation",
+          "#BusinessOwner"
+        ],
+        "estimatedDuration": "45 seconds",
+        "wordCount": 140
+      },
+      "isFavorite": true,
+      "createdAt": "2026-10-17T02:34:52.852Z"
+    },
+    {
+      "id": "item_sample_02",
+      "userId": "user_demo_02",
+      "type": "business_ad",
+      "title": "Urban Kicks Sneaker Drop - Facebook & WhatsApp Promo",
+      "topic": "Urban Kicks Premium Streetwear Sneakers",
+      "platform": "facebook",
+      "content": "👟 SNEAKERHEAD ALERT: Step Up Your Style Without Breaking The Bank!\n\nTired of stiff, overpriced kicks that hurt your feet after 2 hours? \n\nMeet the UrbanGlide Pro 2026 Sneakers:\n✨ CloudFoam cushioning for all-day comfort\n✨ Breathable mesh design engineered for hot weather\n✨ Ultra-durable grip sole ready for street or gym\n\nSpecial Limited Offer: $49 / ₦45,000 (Was $85) + Pay on Delivery Available in select cities!\n\n👉 Limited batch: Only 40 pairs left in stock.\n📲 Tap 'Send Message' on WhatsApp now to claim your size before it sells out!",
+      "structured": {
+        "hook": "👟 SNEAKERHEAD ALERT: Step Up Your Style Without Breaking The Bank!",
+        "callToAction": "📲 Tap 'Send Message' on WhatsApp now to claim your size before it sells out!",
+        "hashtags": [
+          "#SneakerCulture",
+          "#StreetwearFashion",
+          "#MensFashion",
+          "#PayOnDelivery",
+          "#UrbanStyle"
+        ],
+        "wordCount": 110
+      },
+      "isFavorite": true,
+      "createdAt": "2026-10-16T06:34:52.852Z"
+    }
+  ],
+  "config": {
+    "freeDailyLimit": 5,
+    "proDailyLimit": 150,
+    "enterpriseDailyLimit": 9999,
+    "proMonthlyPrice": 19,
+    "proYearlyPrice": 190,
+    "enterpriseMonthlyPrice": 49,
+    "maintenanceMode": false,
+    "announcement": "🚀 Welcome to CreatorAI! Generate viral scripts, posts, ads & captions in seconds.",
+    "allowGuestGenerations": true,
+    "guestDailyLimit": 3
+  },
+  "guestUsage": {
+    "127.0.0.1": {
+      "count": 1,
+      "date": "2026-10-17"
+    }
+  }
+}

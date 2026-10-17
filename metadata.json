@@ -1,0 +1,6 @@
+{
+  "name": "CreatorAI - AI Content Creator & Marketing Studio",
+  "description": "Modern AI content creation platform for TikTok, Instagram, YouTube, business ads, scripts, hooks, captions, and creative posters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
